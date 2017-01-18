@@ -1,4 +1,3 @@
-#!/bin/bash
 
 mkdir -p projecttest/app/{core/services/rest,config,hello}
 
@@ -27,4 +26,4 @@ do
     touch $file
 done
 
-printf "\nProject template created :)"
+printf "\nProject template created :)\n"
